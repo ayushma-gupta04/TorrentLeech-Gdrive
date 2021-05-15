@@ -25,6 +25,6 @@ async def help_message_f(client, message):
     # display the /help
 
     await message.reply_text(
-        """join this group for help-- @GbotStoreSupport\n\n And also don't forget to star/fork this repo: <a href="https://github.com/gautamajay52/TorrentLeech-Gdrive">TorrentLeech-Gdrive</a>""",
+        """join our Channel-- @AnimeDubbed_1\n\n And also don't forget to join our group too: <a href="https://t.me/sensei_Anims">Anime Group</a>""",
         disable_web_page_preview=True,
     )
